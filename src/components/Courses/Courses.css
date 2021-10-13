@@ -1,0 +1,32 @@
+.courses{
+    margin-bottom: 100px;
+}
+.line{
+    background-color: blue;
+    height: 3px;
+    width: 90px;
+    margin: auto;
+}
+.course-image{
+    height: 300px;
+}
+.course-image img{
+    object-fit: cover;
+    height: 100%;
+}
+.fa-star{
+    color: gold;
+}
+.text-yellow{
+    color: yellow;
+}
+.text-justify{
+    text-align: justify;
+}
+.description {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    height: 300px;
+}

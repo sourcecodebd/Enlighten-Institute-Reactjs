@@ -1,0 +1,118 @@
+[
+    {
+        "_id": 1,
+        "course_name": "Math",
+        "instructor": "Nafi Mahmud",
+        "course_duration": "3 months",
+        "course_fee": 2000,
+        "description": "Math—arithmetic, measurement, geometry, fractions, and more. This course is aligned with Common Core standards.",
+        "rating": 3.4,
+        "rating_count": 144,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/CwDk5zK/math.jpg"
+        }
+    },
+    {
+        "_id": 2,
+        "course_name": "C-Programming",
+        "instructor": "Shanti Chondro Ray",
+        "course_duration": "5 months",
+        "course_fee": 3000,
+        "description": "Gain the skill to read and transcribe complex data declarations. Candidates will be able to use advanced pointer techniques effectively. Develop an understanding of the features within C Programming software.Courses delivered by world-class training instructors.",
+        "rating": 3.3,
+        "rating_count": 894,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/QvTfQLd/C-Programming.jpg"
+        }
+    },
+    {
+        "_id": 3,
+        "course_name": "PHP",
+        "instructor": "Somiron Islam",
+        "course_duration": "2 months",
+        "course_fee": 3000,
+        "description": "Learn the basics about development and PHP, including Syntax and structure. Types, arrays, and reusable functions. User forms. HTTP sessions and cookies. Input and output (I/O) including MySQL functions. Make the most of databases to create better web services. Design PHP applications that can scale to meet your requirements.",
+        "rating": 4.5,
+        "rating_count": 375,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/pjpDT2P/php.png"
+        }
+    },
+    {
+        "_id": 4,
+        "course_name": "Laravel",
+        "instructor": "Apel Kumar Saha",
+        "course_duration": "6 month",
+        "course_fee": 6000,
+        "description": "Learn to build applications using laravel. You will learn how use Laravel. You will learn how to create and use Controllers and what they are. You will learn to use the templating engine Blade. How to create migrations and what they are. You will learn how to use routes. How to create Views an what they are",
+        "rating": 3.8,
+        "rating_count": 780,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/Vqqdftt/laravel.png"
+        }
+    },
+    {
+        "_id": 5,
+        "course_name": "JavaScript",
+        "instructor": "Siam Talukdar",
+        "course_duration": "2 months",
+        "course_fee": 2000,
+        "description": "Basics of programming and the JavaScript syntax, JavaScript scope, JavaScript objects, How JavaScript compiles, optimizes, and executes. JavaScript patterns and asynchronous execution and Event handling.",
+        "rating": 4.6,
+        "rating_count": 539,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/QCmsp3r/javascript.png"
+        }
+    },
+    {
+        "_id": 6,
+        "course_name": "React",
+        "instructor": "Sarafat Uddin",
+        "course_duration": "5 months",
+        "course_fee": 6000,
+        "description": "user accounts Learn the latest React libraries and tools. Use cutting-edge ES6/ES7 JavaScript. Deploy your React apps live to the web. Master React, Redux, React-Router, and more.",
+        "rating": 4.4,
+        "rating_count": 454,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/ZmmvBQX/react.png"
+        }
+    },
+    {
+        "_id": 7,
+        "course_name": "Java",
+        "instructor": "Asraful Haque",
+        "course_duration": "4 months",
+        "course_fee": 2500,
+        "description": "Develop a simple SOAP service and client, Master the four security concepts - Authentication Confidentiality Integrity and Non Repudiation. Implement Username Token Profile authentication on client and the provider. Learn how to use the java keytool. Implement Encryption and Decryption.",
+        "rating": 3.5,
+        "rating_count": 127,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/HNdVD2w/java.png"
+        }
+    },
+    {
+        "_id": 8,
+        "course_name": ".Net Framework",
+        "instructor": "Belal Sorkar",
+        "course_duration": "6 months",
+        "course_fee": 8000,
+        "description": "Develop console and Windows applications, Learn about data access mechanisms provided by ADO.NET. Create and consume .dll libraries.Create a web application using .NET, use ASPNET and IIS for making user views and applications more secure.",
+        "rating": 3.7,
+        "rating_count": 210,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/2vKb7Tb/net.png"
+        }
+    },
+    {
+        "_id": 9,
+        "course_name": "Node JS",
+        "instructor": "Israfil Hossain",
+        "course_duration": "4 months",
+        "course_fee": 3500,
+        "description": "You’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.",
+        "rating": 4.1,
+        "rating_count": 398,
+        "picture": {
+            "thumbnail": "https://i.ibb.co/9yjDHPk/nodejs.png"
+        }
+    }

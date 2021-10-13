@@ -1,0 +1,17 @@
+footer{
+    background-color: #98375f;
+    color: white;
+}
+.scrollToTop{
+    background-color: #0bbaff;
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: fit-content;
+    padding: 15px 20px;
+    border-radius: 2px;
+    margin: right;
+    box-shadow: rgba(0, 0, 0, 0.9)2px 4px 8px;
+    cursor: pointer;
+}

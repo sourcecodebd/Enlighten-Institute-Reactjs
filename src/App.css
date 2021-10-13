@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: #00e9ff;
+}
+*{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1, h2{
+  text-transform: uppercase;
+  font-weight: 600;
+}

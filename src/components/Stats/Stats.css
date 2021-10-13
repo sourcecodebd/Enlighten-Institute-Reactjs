@@ -1,0 +1,24 @@
+.stat-container{
+    display: flex;
+    justify-content:center
+}
+.stats{
+    color: cyan;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    overflow: scroll;
+    box-shadow: rgb(255, 255, 255) 2px 4px 8px;
+}
+.stats::-webkit-scrollbar, .charts::-webkit-scrollbar{
+    display: none;
+}
+.events-heading{
+    background-color: limegreen;
+    border-radius: 1px;
+    width: fit-content;
+    margin: auto;
+}
+li{
+    list-style: none;
+}
